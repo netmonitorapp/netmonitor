@@ -1,0 +1,24 @@
+{
+  "name": "netmonitor",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ping": "^0.1.9",
+    "async": "^0.9.0",
+    "moment": "^2.9.0",
+    "moment-duration-format": "^1.3.0",
+    "simple-app": "latest",
+    "unclog": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:netmonitorapp/netmonitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netmonitorapp/netmonitor/issues"
+  },
+  "homepage": "https://github.com/netmonitorapp/netmonitor"
+}
